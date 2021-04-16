@@ -1,0 +1,66 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+
+background: #c4c2c2;
+
+}
+.profile-img
+{
+width: 20%;
+height: 40%;
+float: right;
+}
+.profile-img img
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+.profile-info h1
+{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+.profile-info h2
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.media-info h3
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    border: 1px solid #1a1918;
+}
+.Education-info h3
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.skill-info h4
+{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+li
+{
+    margin-top: 5px;
+}
